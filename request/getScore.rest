@@ -1,1 +1,1 @@
-GET http://localhost:9000/player/a117fc8e-b06d-4dc4-a0c5-42157b702507
+GET http://localhost:3001/player/a117fc8e-b06d-4dc4-a0c5-42157b702507

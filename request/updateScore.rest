@@ -1,6 +1,6 @@
-PUT http://localhost:3001/player/77f168c7-55e4-40c7-a71f-36a96e400b29
+PUT http://localhost:3001/player/83481e4d-194d-4ba4-9a3d-768c5a87eb89
 Content-Type: application/json
 
 {
-    "score": 101
+    "score": 1
 }

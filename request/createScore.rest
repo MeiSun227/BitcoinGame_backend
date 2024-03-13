@@ -1,6 +1,2 @@
 POST http://localhost:3001/player
 content-type: application/json
-
-{
-    "score": 30
-}
